@@ -2,8 +2,6 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
-
-{% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
@@ -11,18 +9,33 @@
   <body>
 
     <section class="main-content">
-      
 
-  <div class="col-sm-8">
- 
-        {{ content }} 
+      
+      
+   <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+          {{ content }}
+        </section>
+
+        <aside id="sidebar">
+            <div class="airbnb-embed-frame" data-id="21161463" data-view="home" style="width:450px;height:300px;margin:auto"><a href="https://www.airbnb.com/rooms/21161463?s=51"><span>View On Airbnb</span></a><a href="https://www.airbnb.com/rooms/21161463?s=51" rel="nofollow">The Greenleaf House</a><script async="" src="https://www.airbnb.com/embeddable/airbnb_jssdk"></script></div>
+  
+        </aside>
       </div>
-  <div class="col-sm-4">
-        <div class="airbnb-embed-frame" data-id="21161463" data-view="home" style="width:450px;height:300px;margin:auto"><a href="https://www.airbnb.com/rooms/21161463?s=51"><span>View On Airbnb</span></a><a href="https://www.airbnb.com/rooms/21161463?s=51" rel="nofollow">The Greenleaf House</a><script async="" src="https://www.airbnb.com/embeddable/airbnb_jssdk"></script></div>
+    </div> 
       
-      </div>    
       
-   
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
   
       <footer class="site-footer">
         <span class="site-footer-credits">The Greenleaf House 1320 W Greenleaf Ave. Chicago IL 60626</span>
