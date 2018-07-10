@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="G2vwCCL3PzTSjOIlZWqevGw8OcHSt_CwDV4ZrCST1fc" />
+
 ## Welcome to The Greenleaf House
 
 <img src="/img/logo_final.jpg" width="325"/>
