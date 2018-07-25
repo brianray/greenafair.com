@@ -22,7 +22,7 @@ Connect with us:
 * [Airbnb](https://www.airbnb.com/users/5468317/listings) 
 * [VRBO](https://www.vrbo.com/1285296)
 
-How to best contact us email the Greeleaf House <info@greenafair.com> or call us 312-954-9091.
+How to best contact us email the Greeleaf House <info@greenleaf.cc> or call us 312-954-9091.
 
 To send us payments use Venmo @brian-ray-1 
 
