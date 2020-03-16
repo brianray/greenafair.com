@@ -20,9 +20,7 @@ Connect with us:
 
 * Instagram [@TheGreenleafHouse](https://www.instagram.com/thegreenleafhouse/) 
 * Bookings [Bookings](https://www.booking.com/hotel/us/the-greenleaf-house.html?lang=xu)
-* [Airbnb](https://www.airbnb.com/users/5468317/listings) 
-* [VRBO](https://www.vrbo.com/1285296)
-
+* [Airbnb](https://www.airbnb.com/users/5468317/)
 
 How to best contact us email the Greeleaf House <info@greenleaf.cc> or call us 347-954-9091.
 
