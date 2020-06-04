@@ -4,6 +4,8 @@
 <img src="/img/logo_final.jpg" width="325"/>
 
 
+[NOW BOOK DIRECTLY ->](https://greenleaf.bookeddirectly.com/g) and save!
+
 "The Greenleaf House" is a 6 bedroom mini hotel/hostel/bed and breakfast. Converted from a community home for youth for decades and recently, into our home where we Air B&B out 6 bedrooms. It's across the street from Loyola Park and Greenleaf Beach. It's 3,600 sqr foot of space with an open floor plan. 
 
 On the first floor, you will find an open space with plentyfull seating and gathering spots. There is a warming fireplace, farm table, and open country style kitchen. There is a modern TV room with xbox, netflix, and can be reservered by guests for free.
